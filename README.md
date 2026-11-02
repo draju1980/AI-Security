@@ -16,6 +16,10 @@ This 9-module course covers the complete spectrum of AI security:
 - **Module 7:** [OWASP Top 10 for LLM Applications](module-7/) - Industry security framework
 - **Module 8:** [Capstone Project - Secure Enterprise AI Assistant](module-8/) - Hands-on security assessment
 
+## 🌐 Online Course
+
+Interactive web version: [https://draju1980.github.io/AI-Security/course.html](https://draju1980.github.io/AI-Security/course.html)
+
 ## Learning Outcomes
 
 Upon completion, students will be able to:
