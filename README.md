@@ -18,7 +18,7 @@ This 9-module course covers the complete spectrum of AI security:
 
 ## 🌐 Online Course
 
-Interactive web version: [https://draju1980.github.io/AI-Security/course.html](https://draju1980.github.io/AI-Security/course.html)
+Interactive web version: [https://draju1980.github.io/AI-Security/](https://draju1980.github.io/AI-Security/)
 
 ## Learning Outcomes
 
